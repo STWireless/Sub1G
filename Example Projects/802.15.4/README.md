@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-02-13 17:14:49
- * @LastEditTime : 2020-02-13 18:18:13
+ * @LastEditTime : 2020-02-13 18:19:25
  * @LastEditors  : Please set LastEditors
  * @Description: In User Settings EditD
  * @FilePath: \Sub1G\README.md
@@ -118,7 +118,7 @@ we have tested by following the steps above with FKI868V2 DK and it can work wel
 ## Data Capture
 ![](../../Library/Data_Capture.png)
 ## Message Output
-![](../../Library/Test_result.png)
+![](../../Library/Test_Result.png)
 
 # Issue
 Any issues you encountered, please summit your requests via **Issues** Option
